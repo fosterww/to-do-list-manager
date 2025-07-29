@@ -1,6 +1,4 @@
 ﻿# to-do-list-manager
-Here's a clean, professional `README.md` for your **CLI To-Do List Manager** project:
-
 ---
 
 # CLI To-Do List Manager
